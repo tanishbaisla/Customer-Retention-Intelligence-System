@@ -1,2 +1,2 @@
-this is a customer churn prediction project 
+This is a customer churn prediction project 
 made using ANN
